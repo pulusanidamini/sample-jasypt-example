@@ -22,8 +22,8 @@ public class DemoApplication implements CommandLineRunner {
 	
 	public static void main(String[] args) {
 		ConfigurableApplicationContext configurableApplicationContext = SpringApplication.run(DemoApplication.class, args);
-		MyTest myTest = configurableApplicationContext.getBean(MyTest.class);
-		myTest.testPrint();
+//		MyTest myTest = configurableApplicationContext.getBean(MyTest.class);
+//		myTest.testPrint();
 	}
 
 	@Override
