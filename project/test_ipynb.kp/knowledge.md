@@ -1,14 +1,13 @@
 ---
 authors:
-- sally_smarts
-- wesley_wisdom
+- Damini
 created_at: 2016-06-29 00:00:00
 tags:
 - knowledge
 - example
 title: This is a Knowledge Template Header
 tldr: This is short description of the content and findings of the post.
-updated_at: 2020-01-30 10:14:06.850877
+updated_at: 2020-01-30 10:54:37.632448
 ---
 
 *NOTE: In the TL,DR, optimize for **clarity** and **comprehensiveness**. The goal is to convey the post with the least amount of friction, especially since ipython/beakers require much more scrolling than blog posts. Make the reader get a correct understanding of the post's takeaway, and the points supporting that takeaway without having to strain through paragraphs and tons of prose. Bullet points are great here, but are up to you. Try to avoid academic paper style abstracts.*
